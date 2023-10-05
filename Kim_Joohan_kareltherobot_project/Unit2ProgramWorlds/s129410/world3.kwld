@@ -1,0 +1,29 @@
+KarelWorld
+streets 14
+avenues 14
+beepers 3 7 4
+beepers 3 8 3
+beepers 4 6 3
+beepers 3 6 4
+beepers 4 7 2
+beepers 5 4 2
+beepers 5 7 3
+beepers 3 5 2
+beepers 4 5 2
+beepers 12 7 1
+beepers 13 6 1
+beepers 9 3 1
+beepers 8 5 1
+beepers 9 5 2
+beepers 8 6 1
+beepers 13 5 2
+beepers 7 9 2
+beepers 9 4 1
+eastwestwalls 2 4 8
+eastwestwalls 6 4 8
+eastwestwalls 6 3 9
+eastwestwalls 13 3 9
+northsouthwalls 3 3 6
+northsouthwalls 8 3 6
+northsouthwalls 2 7 13
+northsouthwalls 9 7 13
